@@ -1,0 +1,35 @@
+[
+    {
+        "imagen" : "img/arquero2.jfif",
+        "nombre" : "Pato Abondanzzieri",
+        "numero" : "1",
+        "posicion" : "Arquero",
+        "id" : "1",
+        "mensaje" : "Fue un antes y un despues "
+        
+    },
+    {
+        "imagen" : "img/defensor2.jfif",
+        "nombre" : "Flaco Schiavi",
+        "numero" : "2",
+        "posicion" : "Defensor",
+        "id" : "2",
+        "mensaje" : "Me cambio la vida "
+    },
+   {
+        "imagen" : "img/delantero1.jpg",
+        "nombre" : "Martin Palermo",
+        "numero" : "4",
+        "posicion" : "Delantero",
+        "id" : "4",
+        "mensaje" : "Todo mas facil"
+    },
+    {
+        "imagen" : "img/delantero3.jfif",
+        "nombre" : "D10S",
+        "numero" : "5",
+        "posicion" : "EL Diego",
+        "id" : "5",
+        "mensaje" : "Un toque, sin vueltas "
+    }
+]
